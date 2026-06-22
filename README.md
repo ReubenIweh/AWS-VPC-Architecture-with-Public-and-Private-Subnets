@@ -16,7 +16,7 @@ Design and deploy a secure enterprise-grade VPC using AWS networking services.
 
 ## Architecture
 
-[Insert diagram]
+![Install inventory](./aws-screenshot/enterprise-vpc.png)
 
 ## Features
 
