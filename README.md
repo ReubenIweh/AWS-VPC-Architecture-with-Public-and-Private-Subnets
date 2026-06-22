@@ -37,13 +37,6 @@ Private EC2 successfully downloaded packages through NAT Gateway.
 
 Private EC2 uploaded objects to S3 without internet access.
 
-## Lessons Learned
-
-- Route table design
-- Subnet isolation
-- Enterprise network security
-- AWS endpoint services
-
 
   📑 **Project Overview**
 - [Custom VPC](#custom-vpc)
