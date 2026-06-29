@@ -49,3 +49,18 @@ Private EC2 uploaded objects to S3 without internet access.
 - [EC2-Instance](#ec2-instance)
 - [S3 Gateway Endpoint](#s3-gateway-endpoint)
 
+
+## Custom VPC
+We are going to create a VPC called MyVPC. Make sure your browser is logged in to the AWS Management Console.
+Step 1: Create a VPC
+Go to VPC service in AWS Console.
+Click Your VPCs → Create VPC.
+Choose VPC only option.
+Configure:
+Name: MyVPC
+IPv4 CIDR block: 10.0.0.0/16 (enough for many subnets)
+IPv6 CIDR block: No IPv6
+Tenancy: Default
+Click Create VPC.
+
+You now have a VPC.
