@@ -4,7 +4,7 @@
 
 Design and deploy a secure enterprise-grade VPC using AWS networking services.
 
-## Technologies
+## Tech Stack
 
 - AWS VPC
 - EC2
